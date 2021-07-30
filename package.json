@@ -1,0 +1,40 @@
+{
+    "name": "vscode-gitandgithub-pack",
+	"license": "MIT",
+    "displayName": "Git & GitHub Extension Pack",
+    "description": "A collection of VSCode essential extensions to work with Git and GitHub.",
+    "version": "1.0.0",
+	"publisher": "webyxco",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "icon": "logo.png",
+    "keywords": [
+        "git",
+        "github",
+        "gitlab",
+        "gitlens",
+        "version"
+    ],
+    "repository": {
+        "url": "https://github.com/Webyx-Co/vscode-gitandgithub-pack"
+    },
+    "homepage": "https://github.com/Webyx-Co/vscode-gitandgithub-pack",
+    "bugs": {
+        "url": "https://github.com/Webyx-Co/vscode-gitandgithub-pack/issues"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "mhutchie.git-graph",
+        "github.codespaces",
+        "howardzuo.vscode-git-tags",
+        "github.vscode-pull-request-github",
+        "ziyasal.vscode-open-in-github",
+        "adam-bender.commit-message-editor",
+        "github.remotehub"
+    ]
+}
