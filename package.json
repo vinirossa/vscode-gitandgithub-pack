@@ -3,7 +3,7 @@
     "license": "MIT",
     "displayName": "Git & GitHub Extension Pack",
     "description": "A collection of VSCode essential extensions to work with Git and GitHub.",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "vinirossa",
     "engines": {
         "vscode": "^1.58.0"
