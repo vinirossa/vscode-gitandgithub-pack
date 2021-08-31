@@ -17,11 +17,11 @@
         "version"
     ],
     "repository": {
-        "url": "https://github.com/Webyx-Co/vscode-gitandgithub-pack"
+        "url": "https://github.com/vinirossa/vscode-gitandgithub-pack"
     },
-    "homepage": "https://github.com/Webyx-Co/vscode-gitandgithub-pack",
+    "homepage": "https://github.com/vinirossa/vscode-gitandgithub-pack",
     "bugs": {
-        "url": "https://github.com/Webyx-Co/vscode-gitandgithub-pack/issues"
+        "url": "https://github.com/vinirossa/vscode-gitandgithub-pack/issues"
     },
     "categories": [
         "Extension Packs"

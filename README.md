@@ -2,7 +2,7 @@
 
 <!-- [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/vscode-gitandgithub-pack?color=success&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=vscode-gitandgithub-pack)  -->
 
-A collection of essential extensions to increase your productivity while working with Git and GitHub, created by [Webyx Co.](https://github.com/Webyx-Co)
+A collection of essential extensions to increase your productivity while working with Git and GitHub, created by [vinirossa](https://github.com/vinirossa)
 
 ## Included extensions
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
@@ -20,7 +20,7 @@ To install only some of the fonts, just edit the package.json file removing the 
 ## How to develop and install locally
 - Clone the repository
 ```bash
-$ git clone https://github.com/Webyx-Co/vscode-gitandgithub-pack
+$ git clone https://github.com/vinirossa/vscode-gitandgithub-pack
 ```
 - Install vsce
 ```bash
@@ -39,4 +39,4 @@ $vsce package
 
 ## For more information
 
-* [Webyx Co. Github](https://github.com/Webyx-Co)
+* [See my Github](https://github.com/vinirossa)
