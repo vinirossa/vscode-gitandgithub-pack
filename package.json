@@ -4,7 +4,7 @@
     "displayName": "Git & GitHub Extension Pack",
     "description": "A collection of VSCode essential extensions to work with Git and GitHub.",
     "version": "1.0.0",
-	"publisher": "webyxco",
+	"publisher": "vinirossa",
     "engines": {
         "vscode": "^1.58.0"
     },
